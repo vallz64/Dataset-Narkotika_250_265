@@ -9,7 +9,7 @@ Ini merupakan project tugas Mata kuliah Temu Kembali Informasi
 
 ## Dataset
 
-Dataset diambil dari web berikut:
+Dataset diambil dari Pengadilan Negeri Pasuruan dengan link sebagai berikut:
 https://putusan3.mahkamahagung.go.id/direktori/index/pengadilan/pn-pasuruan/kategori/narkotika-dan-psikotropika-1.html
 
 ## 
